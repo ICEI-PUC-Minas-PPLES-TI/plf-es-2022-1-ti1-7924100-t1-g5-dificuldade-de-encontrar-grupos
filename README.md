@@ -1,6 +1,7 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-c66648af7eb3fe8bc4f294546bfd86ef473780cde1dea487d3c4ff354943c9ae.svg)](https://classroom.github.com/online_ide?assignment_repo_id=7677365&assignment_repo_type=AssignmentRepo)
 # Nome do projeto
-Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
+O objetivo  deste projeto é ajudar pessoas que tem dificuldade em encontrar outras pessoas com interesses em comum.
+Seja essa dificuldade causada por timidez ou por interesses bem específicos, o projeto tem o objetivo de unir essas pessoas para que possam interagir.
 
 ## Alunos integrantes da equipe
 
@@ -10,8 +11,8 @@ Escreva um ou dois  parágrafo resumindo o objetivo do seu projeto.
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
-* Nome completo do professor 2
+* Roberto Felipe Dias Ferreira da Rocha 
+* Johnatan Alves de Oliveira
 
 ## Instruções de utilização
 
