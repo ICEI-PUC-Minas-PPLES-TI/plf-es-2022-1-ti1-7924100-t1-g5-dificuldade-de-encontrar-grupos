@@ -1,0 +1,33 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: T1-G5 - Dificuldade de encontrar grupo com o mesmo interesse
+authors:
+  - family-names: Cesar da Silva
+    given-names: Leonardo
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Augusto Lara Soares
+    given-names: Felipe
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves de Oliveira
+    given-names: Jonathan
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Felipe Dias Ferreira da Rocha
+    given-names: Roberto    
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: de Assis Alves da Silva
+    given-names: Simone
+
+keywords:
+  - grupos
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/plf-es-2022-1-ti1-7924100-t1-g5-dificuldade-de-encontrar-grupos
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2022-07-14    
